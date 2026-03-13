@@ -31,7 +31,7 @@ Atualmente aprofundando meus estudos em **Java e Spring Boot** para expandir min
 ## Tech Data Stack
 
 ### Data Engineering
-![My Skills](https://skillicons.dev/icons?i=python,aws,docker,git,grafana)
+![My Skills](https://skillicons.dev/icons?i=python,aws,docker,git,grafana,linux)
 
 
 - PySpark
@@ -45,6 +45,7 @@ Atualmente aprofundando meus estudos em **Java e Spring Boot** para expandir min
 ![My Skills](https://skillicons.dev/icons?i=java,spring,fastapi)
 
 - FastAPI
+- RAG e Vector Stores
 - Java
 - Spring Boot
 
